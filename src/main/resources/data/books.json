@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "rating": 4.9
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "rating": 4.8
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "rating": 4.7
+    },
+    {
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "genre": "Science Fiction",
+      "rating": 4.6
+    },
+    {
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "genre": "Mystery",
+      "rating": 4.5
+    },
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Mystery",
+      "rating": 4.4
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "genre": "Non-Fiction",
+      "rating": 4.8
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Non-Fiction",
+      "rating": 4.7
+    }
+  ]
+}

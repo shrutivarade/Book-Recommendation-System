@@ -1,0 +1,20 @@
+{
+  "queries": [
+    {
+      "genre": "Fantasy",
+      "author": "J.K. Rowling"
+    },
+    {
+      "genre": "Science Fiction",
+      "author": "Isaac Asimov"
+    },
+    {
+      "genre": "Mystery",
+      "author": "Agatha Christie"
+    },
+    {
+      "genre": "Non-Fiction",
+      "author": "Yuval Noah Harari"
+    }
+  ]
+}

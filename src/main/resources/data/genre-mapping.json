@@ -1,0 +1,22 @@
+{
+  "Fantasy": [
+    "Harry Potter and the Sorcerer's Stone by J.K. Rowling",
+    "The Hobbit by J.R.R. Tolkien",
+    "The Name of the Wind by Patrick Rothfuss"
+  ],
+  "Science Fiction": [
+    "Dune by Frank Herbert",
+    "Foundation by Isaac Asimov",
+    "Ender's Game by Orson Scott Card"
+  ],
+  "Mystery": [
+    "Murder on the Orient Express by Agatha Christie",
+    "The Girl with the Dragon Tattoo by Stieg Larsson",
+    "Gone Girl by Gillian Flynn"
+  ],
+  "Non-Fiction": [
+    "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+    "Educated by Tara Westover",
+    "Becoming by Michelle Obama"
+  ]
+}
